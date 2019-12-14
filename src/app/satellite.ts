@@ -18,5 +18,4 @@ export class Satellite {
         this.orbitType = orbitType;
         this.operational = operational;
     }
-
 }
